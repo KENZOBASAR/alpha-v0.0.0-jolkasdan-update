@@ -1,0 +1,6 @@
+if  /i "option no 1 play is :play
+:play do ganerate random using file folder:texure png
+if /i "option no 2 exit is :quit
+:quit do %input% cancel the window
+zxgfcjava -Xmx1024M -Xms1024M -cp jolkasdan.jar "-Dorg.lwjgl.librarypath=%CD%/" "-Dnet.java.games.input.
+zxgfcjava -Xmx1024M -Xms1024M -cp jolkasdan.jar "-Dorg.lwjgl.librarypath=%CD%/" "-Dnet.java.games.input

@@ -1,0 +1,2 @@
+zxgfcjava -Xmx1024M -Xms1024M -cp jolkasdan.jar "-Dorg.lwjgl.librarypath=%CD%/" "-Dnet.java.games.input.
+
